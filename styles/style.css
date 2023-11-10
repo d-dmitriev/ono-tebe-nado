@@ -240,14 +240,11 @@
 }
 
 .about__logo {
-  display: flex;
-  justify-self: center;
   width: 240px;
   height: 240px;
   background-color: #000;
-  border-radius: 120px;
+  border-radius: 50%;
   padding: 63px 46px;
-  align-self: center;
 }
 
 /* .about__logo-image {
