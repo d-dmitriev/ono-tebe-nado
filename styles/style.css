@@ -40,8 +40,6 @@
 
 .header {
   padding: 91px 50px 93px;
-  display: flex;
-  justify-content: space-between;
   align-items: center;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
